@@ -1,11 +1,14 @@
-- 👋 I’m Vera. A Self-taught Data Analyst from Nigeria.
+- 👋 I’m Vera. A Self-taught Data Analyst, and Power BI enthusiast from Nigeria.
 
 
-ABOUT ME
-- 💻Love working with numbers, anything data related and learning new skill.
--🧡 I love Excel and Power BI
-- 💞️ Looking to collaborate on projects relating to data analytics.
-- 📫 Reach me on veegold@gmail.com or https://www.linkedin.com/in/vera-ezinne-a66464209/
+✨ABOUT ME IN 30 SECS✨
+
+- 🌝 I'm open for a Data Analyst role.
+- 📊 Transitioned to Data Analytics in October, 2022 
+- 👷‍♀️ 2 years experience as a Legal Analyst, and 1 as a Business Analyst.
+- 🔰  Self-taught Excel, SQL, Power BI, Python.
+- 💜 My favourite tools are Excel, and Power BI. Literally use them for almost everything! Personal accounts, study schedule, itenaries etc.
+- 📫 Reach me on https://www.linkedin.com/in/vera-ezinne-a66464209/
 
 <!---
 becomingtechsis/becomingtechsis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
