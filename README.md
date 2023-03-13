@@ -3,14 +3,10 @@
 
 ✨ABOUT ME IN 30 SECS✨
 
-- 🌝 I'm open for a Data Analyst role.
 - 📊 Transitioned to Data Analytics in October, 2022 
 - 👷‍♀️ 3 years experience as a Legal Analyst, and 1 as a Business Analyst.
 - 🔰  Self-taught Excel, SQL, Power BI, Python, HTML, CSS, Tailwind.
-- 💜 My favourite tools are Excel, and Power BI. Literally use them for almost everything! Personal accounts, study schedule, itenaries etc.
-
-📚 Projects & Guides 📚
-In my portfolio, you can find my projects.
+- 💜 My favourite tools are Excel and Power BI. Literally use them for almost everything! Personal accounts, study schedule, itenaries etc.
 
 💡 My Skills
 Data preparation, quality assurance, and analysis
@@ -20,15 +16,11 @@ Exploratory data analysis
 
 🛠️ My Tools
 Databases: SQL (PostgreSQL, MySQL, SQL Server), Excel, HTML.
-Python: NumPy, Pandas
-Visualisation: Tableau, Matplotlib, Css, Tailwind.
-Project Management: Trello, JIRA
+Visualisation: Power BI, Css, Tailwind.
 
-🙌🏻 Connect with Me
-Linkedin
-Medium
+CONNECT WITH ME 
+twitter link
 
-<!---
 becomingtechsis/becomingtechsis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
