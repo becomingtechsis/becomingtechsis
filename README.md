@@ -9,17 +9,17 @@
 - 💜 My favourite tools are Excel and Power BI. Literally use them for almost everything! Personal accounts, study schedule, itenaries etc.
 
 💡 My Skills
-Data preparation, quality assurance, and analysis
-Database design and modelling
-Dashboard development and reporting
-Exploratory data analysis
+- Data preparation, quality assurance, and analysis
+- Database design and modelling
+-Dashboard development and reporting
+- Exploratory data analysis
 
 🛠️ My Tools
-Databases: SQL (PostgreSQL, MySQL, SQL Server), Excel, HTML.
-Visualisation: Power BI, Css, Tailwind.
+-Databases: SQL (PostgreSQL, MySQL, SQL Server), Excel, HTML.
+-Visualisation: Power BI, Css, Tailwind.
 
 CONNECT WITH ME 
-twitter link
+-twitter link
 
 becomingtechsis/becomingtechsis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
