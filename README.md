@@ -3,7 +3,6 @@
 
 ✨ABOUT ME IN 30 SECS✨
 
-- 📊 Transitioned to Data Analytics in October, 2022 
 - 👷‍♀️ 3 years experience as a Legal Analyst, and 1 as a Business Analyst.
 - 🔰  Self-taught Excel, SQL, Power BI, HTML, CSS, Tailwind.
 - 💜 My favourite tools are Excel and Power BI. Literally use them for almost everything! Personal accounts, study schedule, itenaries etc.
