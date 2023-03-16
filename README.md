@@ -4,8 +4,12 @@
 ✨ABOUT ME IN 30 SECS✨
 
 - 👷‍♀️ 3 years experience as a Legal Analyst, and 1 as a Business Analyst.
+- I’m looking to collaborate with companies, organizations or even individuals to solve their business problems leveraging data.
+- ’m open for Data Analyst Role as i am currenting in search for a Data Analyst role.
 - 🔰  Self-taught Excel, SQL, Power BI, HTML, CSS, Tailwind.
 - 💜 My favourite tools are Excel and Power BI. Literally use them for almost everything! Personal accounts, study schedule, itenaries etc.
+- Reach me on [LinkedIn](https://www.linkedin.com/in/vera-ezinne-a66464209/) or [Twitter](https://twitter.com/home)
+
 
 💡 My Skills
 - Data preparation, quality assurance, and analysis
@@ -16,5 +20,3 @@
 🛠️ My Tools
 - Databases: SQL (PostgreSQL, MySQL, SQL Server), Excel, HTML.
 - Visualisation: Power BI, Css, Tailwind.
-
-Reach Me on [Twitter](https://twitter.com/home)
