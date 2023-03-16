@@ -14,11 +14,10 @@
 - Exploratory data analysis
 
 🛠️ My Tools
--Databases: SQL (PostgreSQL, MySQL, SQL Server), Excel, HTML.
--Visualisation: Power BI, Css, Tailwind.
+- Databases: SQL (PostgreSQL, MySQL, SQL Server), Excel, HTML.
+- Visualisation: Power BI, Css, Tailwind.
 
-CONNECT WITH ME 
--https://twitter.com/home
+Reach Me on [Twitter](https://twitter.com/home)
 
 becomingtechsis/becomingtechsis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
