@@ -10,7 +10,7 @@
 - 💜 My favourite tools are Excel and Power BI. Literally use them for almost everything! Personal accounts, study schedule, itenaries etc.
 - Reach me on [LinkedIn](https://www.linkedin.com/in/vera-ezinne-a66464209/) or [Twitter](https://twitter.com/home)
 
-## 📚 Projects & Guides 📚
+## 📚 My PORTFOLIO 📚
 In my [portfolio](https://github.com/becomingtechsis/Portfolio-Guide), you can find my projects.
 
 
